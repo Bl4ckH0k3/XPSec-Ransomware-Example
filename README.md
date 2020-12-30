@@ -12,11 +12,11 @@
 <p align="center">
 <img src="https://i.imgur.com/1OsG4H4.png" width="70%">
 </p>
-<p>*Em seguida, verifica uma a uma as subpastas e repete o processo de tentativa de criptografia até completar toda a rota programada.</p>
+<p>Em seguida, verifica uma a uma as subpastas e repete o processo de tentativa de criptografia até completar toda a rota programada.</p>
 <p align="center">
 <img src="https://i.imgur.com/dKAMOaf.png" width="70%">
 </p>
-<p>*Ao completar, exibe uma mensagem informando o término da criptografia e exibe uma mensagem contendo a senha de descriptografia.</p>
+<p>Ao completar, exibe uma mensagem informando o término da criptografia e exibe uma mensagem contendo a senha de descriptografia.</p>
 <p align="center">
 <img src="https://i.imgur.com/MHFZmq6.png" width="70%">
 </p>
